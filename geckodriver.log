@@ -1196,3 +1196,10 @@ Gdk-Message: 23:57:51.127: Error reading events from display: Connection reset b
 1582297837753	Marionette	INFO	Listening on port 46769
 1582297837854	Marionette	WARN	TLS certificate errors will be ignored for this session
 1582297854991	Marionette	INFO	Stopped listening on port 46769
+1582298172112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileefzeew"
+1582298172474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582298172474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582298172474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582298172474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582298173654	Marionette	INFO	Listening on port 40851
+1582298173718	Marionette	WARN	TLS certificate errors will be ignored for this session
